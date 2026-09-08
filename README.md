@@ -102,4 +102,3 @@ This reports single-frame inference latency and SI-SDR for a validation subset. 
 
 - Input audio is converted to mono by Librosa and resampled to 16 kHz.
 - The validation split is based on source utterance names to reduce chunk-level data leakage.
-- Paths in the scripts and notebook are examples and must be updated for the machine running the project.
